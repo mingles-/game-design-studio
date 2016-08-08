@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.01.07.00">
+    <object class="AudioFile" id="{0ba46c59-d26a-4e37-87e7-fa90cd29e5ea}">
+        <property name="frequencyInKHz">
+            <value>44.0999985</value>
+        </property>
+        <property name="channelCount">
+            <value>1</value>
+        </property>
+        <property name="length">
+            <value>1.5470521541950113</value>
+        </property>
+        <property name="audioFilePath">
+            <value>$(AUDIO_BIN_DIR)/Water3 {5257bd88-cd94-4835-99b2-14dff90a44e0}.wav</value>
+        </property>
+        <relationship name="container">
+            <destination>{d2e8b88f-69df-48fc-9a27-f88373808769}</destination>
+        </relationship>
+    </object>
+</objects>
